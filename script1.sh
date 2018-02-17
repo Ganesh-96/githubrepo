@@ -1,4 +1,4 @@
 echo "hello world"
-java -Version
-jenkins -Version
+java -version
+jenkins -version
 ls -lrth
